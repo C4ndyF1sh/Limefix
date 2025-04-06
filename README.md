@@ -1,2 +1,2 @@
 # Limefix
-A iOS downgrade for arm64 devices.
+A iOS downgrade tool for arm64 devices.
